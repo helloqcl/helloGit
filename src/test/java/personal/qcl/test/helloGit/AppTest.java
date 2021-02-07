@@ -1,4 +1,4 @@
-package personal.qcl.test;
+package personal.qcl.test.helloGit;
 
 import static org.junit.Assert.assertTrue;
 
